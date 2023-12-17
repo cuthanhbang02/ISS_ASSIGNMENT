@@ -120,7 +120,7 @@ EXECUTE sa_user_admin.set_groups('ACCESS_EMP_INFO', 'DIRECTOR', 'LDR', 'LDR', NU
 
 GRANT execute ON to_lbac_data_label TO SEC_MGR WITH GRANT OPTION;
 
-CREATE OR REPLACE FUNCTION gen_personel_label(
+CREATE OR REPLACE FUNCTION gen_user_label(
     P_DIR CHAR,
     P_PER_DEPT CHAR,
     P_PER_DEPT_MANAGER CHAR,
