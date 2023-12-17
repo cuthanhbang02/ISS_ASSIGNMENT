@@ -1,0 +1,4 @@
+"DEPARTMENT_ID","MANAGER_ID","D_NAME","HR_DEPART_FLAG","NORMAL_DEPART_FLAG"
+"HRD  ","HRM01","Nhan su","1","0"
+"FD   ","FDM01","Tai chinh","0","1"
+"TD   ","TDM02","IT","0","1"

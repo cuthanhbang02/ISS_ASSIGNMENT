@@ -1,0 +1,2 @@
+"JOB_ID","MANAGER_ID","DEPARTMENT_ID","HR_STAFF_ID","J_POSITION","START_DATE","END_DATE","J_DESCRIPTION","J_REQUIREMENTS","J_RESPONSIBILITIES","J_BENEFITS"
+"JD001","TD001","TD   ","HR002","Frontend Developer",01-JAN-24,,"Lam viec theo thiet ke frontend","Thong thao react. html, css","Lam khong bo viec","Luong nghin do"
